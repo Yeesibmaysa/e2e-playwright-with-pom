@@ -1,0 +1,12 @@
+{
+  "name": "e2e-playwright-with-pom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Yeesibmaysa/e2e-playwright-with-pom.git",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  },
+  "scripts": {}
+}
